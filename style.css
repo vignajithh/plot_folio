@@ -1,0 +1,10 @@
+/* .grid{
+    width: 300px;
+    height: 300px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+} */
+
+.carousel-item > img{
+    height: 400px;
+}
